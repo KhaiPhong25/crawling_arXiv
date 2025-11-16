@@ -48,7 +48,9 @@ END_ID   = 2212.11475
 ### **2. Scraping Rate**
 
 Scraping rate for metadata: 100%
+
 Scraping rate for paper: 99.37%
+
 Scraping rate for reference: 99.6%
 
 ### **3. Parallelism**
@@ -60,7 +62,6 @@ NUM_THREADS = 1
 
 ## How to Run
 
-### **1. Open Jupyter Notebook**
 When scraping metadata and paper
 ```bash
 jupyter notebook module_1.ipynb
