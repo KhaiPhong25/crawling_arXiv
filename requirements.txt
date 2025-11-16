@@ -1,0 +1,7 @@
+orjson==3.11.4
+python-dateutil==2.9.0.post0
+requests==2.32.5
+arxiv==2.3.0
+filetype==1.2.0
+psutil==7.0.0
+google-colab==1.0.0
