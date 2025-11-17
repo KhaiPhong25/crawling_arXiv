@@ -62,11 +62,12 @@ NUM_THREADS = 1
 
 ## How to Run
 
-When scraping metadata and paper
+First, run module 1 to scrape metadata and papers
 ```bash
 jupyter notebook module_1.ipynb
 ```
-When scraping reference
+
+Then, run module 2 to scrape references
 ```bash
 jupyter notebook module_2.ipynb
 ```
